@@ -157,7 +157,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        webView.loadUrl("https://gpscell.site/")
+        webView.loadUrl("https://xprime.gpscell.site/")
 
         handler.post(syncRunnable)
 

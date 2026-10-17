@@ -4,11 +4,11 @@
 }
 
 android {
-    namespace = "com.gpscell.manager"
+    namespace = "com.x7.gpscell"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.gpscell.manager"
+        applicationId = "com.x7.gpscell"
         minSdk = 24
         targetSdk = 36
         versionCode = 2
